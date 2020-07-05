@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571025616302",
+    "firebase_url": "https://bocasyboquitas-4eda6.firebaseio.com",
+    "project_id": "bocasyboquitas-4eda6",
+    "storage_bucket": "bocasyboquitas-4eda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571025616302:android:00f74d28592a46dc406c3f",
+        "android_client_info": {
+          "package_name": "com.example.testperformanceemulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571025616302-7j6fapqc6sqn4enmgbkd2ou8q4m6vapm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testperformanceemulator",
+            "certificate_hash": "a00a93e6628c1f3dddf5256d321bb7142ca9aa00"
+          }
+        },
+        {
+          "client_id": "571025616302-5t2uibb5frb61d6s3iajgnqm0956nina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUsXKnCj28WUWKjDk0h_DyHFyJtXwLfuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571025616302-5t2uibb5frb61d6s3iajgnqm0956nina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
